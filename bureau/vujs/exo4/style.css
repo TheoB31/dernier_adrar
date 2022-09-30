@@ -1,0 +1,23 @@
+
+.blue{
+    color: white;
+    background-color: blue;
+
+}
+.rouge{
+    color: white;
+    background-color: red;
+    
+}
+
+.fin{
+   display: none; 
+}
+
+#bulle1{
+    text-align: center;
+}
+#bulle2{
+    text-align: center;
+    
+}

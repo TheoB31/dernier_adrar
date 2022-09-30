@@ -1,0 +1,17 @@
+#inscription{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(5, 156, 118);
+}
+#inscription>*{
+    width: 250px;
+    height: 25px;
+    margin: 5px;
+    padding-left: 10px;
+}
+
+#erreur{
+    color: brown;
+}
